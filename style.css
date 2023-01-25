@@ -1,0 +1,12 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background: url('Slytherin.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+}
+
